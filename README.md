@@ -1,7 +1,7 @@
 # Integrative Practice in Data Science
 My school homework from **#DescomplicaDigital** on Integrative Practice in Data Science, which is a multidisciplinary approach that involves combining data from diverse sources, formats, and structures to form a unified, coherent dataset for comprehensive analysis, improved decision-making, and advanced applications like AI and machine learning. This practice goes beyond mere data collection to emphasize the strategic harmonization of information and methods across various domains. 
 
-## **Contents**
+## Contents
 1. Data Science in Organizations
 2. Data visualization
 3. Statistical Techniques for Data Analysis
