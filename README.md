@@ -16,3 +16,5 @@ My school homework from **#DescomplicaDigital** on Integrative Practice in Data 
 12. Business Intelligence
 13. Business Intelligence Applications
 14. Disruptive Solutions
+15. Sentiment Analysis
+16. Decision-making
