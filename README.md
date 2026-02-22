@@ -3,13 +3,13 @@ My school homework from **#DescomplicaDigital** on Integrative Practice in Data 
 
 ## Contents
 1. Data Science in Organizations
-2. Data visualization
+2. Data Visualization
 3. Statistical Techniques for Data Analysis
 4. Data Science at Scale
 5. Big Data Analytics
 6. Machine Learning (Learning for Scenario Anticipation)
 7. Machine Learning (Representation Learning)
-8. Treatment, Validation and Testing
+8. Treatment, Validation & Testing
 9. Deep Learning
 10. Deep Learning Applications
 11. Applied Internet of Things
